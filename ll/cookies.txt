@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+wmkiri.mydurable.com	TRUE	/	FALSE	1999999999	__cflb	02DiuH2r6T5i4sjob6QVCZZ79L4uYcDGcV758169LKhU8
+wmkiri.mydurable.com	TRUE	/	FALSE	1999999999	SameSite	None
+wmkiri.mydurable.com	TRUE	/	FALSE	1999999999	pt	NjYxODkxZGRhZWUxM2ViMDM1ZDlmNzgwOjE3MTI4OTI5MTkuMjg1OnByZXZpZXc%3D
+
